@@ -1,6 +1,6 @@
 {
-   "name": "status-maker",
-   "productName": "status-maker",
+   "name": "discord-rpc-client",
+   "productName": "discord-rpc-client",
    "version": "1.0.0",
    "description": "Discord RPC Maker - A tool to create Discord Rich Presence",
    "main": ".webpack/main",
