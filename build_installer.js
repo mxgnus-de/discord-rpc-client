@@ -1,7 +1,7 @@
 // eslint-disable-next-line @typescript-eslint/no-var-requires
 const { MSICreator } = require('electron-wix-msi');
 // eslint-disable-next-line @typescript-eslint/no-var-requires
-const path = require( 'path');
+const path = require('path');
 
 const APP_DIR = path.resolve(__dirname, './Discord-RPC-Maker-win32-x64');
 const OUT_DIR = path.resolve(__dirname, './windows_installer');
